@@ -1,3 +1,1 @@
-(org-mcp
- :fetcher github
- :repo "laurynas-biveinis/org-mcp")
+(org-mcp :fetcher github :repo "hsienchiaolee/org-mcp")
